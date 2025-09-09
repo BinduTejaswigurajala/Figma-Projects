@@ -1,4 +1,4 @@
-# Projects:
+# PROJECTS:
 
 E-COMMERCE PROTOTYPE (https://www.figma.com/proto/Ol9lwzbKRvpbYyjziaWovj/E-commerce?node-id=0-1&t=yYEYPCjxvN5lfE98-1)
 
